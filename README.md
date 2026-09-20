@@ -165,9 +165,8 @@ DKIM = FAIL
 DMARC = FAIL
 ```
 
-These authentication failures provide additional evidence that the message requires security investigation.
+These authentication failures provide additional evidence that the message requires security investigation.<img width="1920" height="1080" alt="04-virustotal-email" src="https://github.com/user-attachments/assets/c3bfb796-a78b-48fd-8145-871eaff3c7c7" />
 
-![Sender Domain Analysis](evidence/02-sender-domain-analysis.png)
 
 ---
 
@@ -219,7 +218,8 @@ Two vendors produced detections for the submitted email file, while other vendor
 
 This result was treated as supporting threat-intelligence evidence rather than as the sole basis for the investigation.
 
-![VirusTotal Email Analysis](evidence/04-virustotal-email.png)
+![VirusTotal Email Analysis](evidence/04-virustotal-email.png)<img width="1920" height="1080" alt="04-virustotal-email" src="https://github.com/user-attachments/assets/5be4bd11-786c-4701-aaca-4930461d7442" />
+
 
 ---
 
@@ -237,7 +237,8 @@ The investigation examined:
 
 The observed VirusTotal findings were documented in the investigation report.
 
-![VirusTotal URL Investigation](evidence/05-virustotal-url.png)
+![VirusTotal URL Investigation](evidence/05-virustotal-url.png)<img width="1920" height="1080" alt="05-virustotal-url" src="https://github.com/user-attachments/assets/4e5658d9-6967-4491-a668-6726fa1f9619" />
+
 
 ---
 
@@ -261,7 +262,8 @@ The investigation examined:
 
 The observed findings were documented in the investigation report.
 
-![VirusTotal IP Investigation](evidence/06-virustotal-ip.png)
+![VirusTotal IP Investigation](evidence/06-virustotal-ip.png)<img width="1920" height="1080" alt="06-virustotal-ip" src="https://github.com/user-attachments/assets/ad8e776c-696d-440f-a3c1-1a27a6bde567" />
+
 
 ---
 
@@ -281,7 +283,9 @@ The investigation examined available information including:
 
 The URLScan.io findings were compared with the email and VirusTotal evidence.
 
-![URLScan.io Investigation](evidence/07-urlscan-analysis.png)
+![URLScan.io Investigation](evidence/07-urlscan-analysis.png)<img width="1303" height="637" alt="10-phishing-indicators" src="https://github.com/user-attachments/assets/05280911-bb23-42a2-98fa-3ef279ed2848" />
+<img width="1920" height="1080" alt="07-urlscan-analysis" src="https://github.com/user-attachments/assets/43c4f828-ad41-4394-8d7d-31395b831ef4" />
+
 
 ---
 
@@ -309,7 +313,8 @@ The final extension is `.exe`, indicating that the file is an executable rather 
 
 The attachment was not executed during the investigation.
 
-![Attachment Analysis](evidence/08-attachment-analysis.png)
+![Attachment Analysis](evidence/08-attachment-analysis.png)<img width="778" height="281" alt="08-attachment-analysis" src="https://github.com/user-attachments/assets/fad12599-3093-42de-8ba6-55bdc519bdd5" />
+
 
 ---
 
@@ -325,7 +330,8 @@ The attachment was not executed during the investigation.
 | Attachment    | `Account_Statement.pdf.exe`                                        | Email attachment |
 | Email SHA-256 | `3e2bce0ee01f9a44ebb857826928684ef7f906b4d2344afc42597a07cd9c7203` | VirusTotal       |
 
-![IOC Summary](evidence/09-ioc-summary.png)
+![IOC Summary](evidence/09-ioc-summary.png)<img width="1920" height="1080" alt="09-ioc-summary" src="https://github.com/user-attachments/assets/ad35b7ab-9cc0-433f-830d-894686403098" />
+
 
 ---
 
@@ -344,7 +350,9 @@ The investigation identified the following indicators requiring security attenti
 9. Suspicious `.pdf.exe` attachment.
 10. External sending IP identified in the email headers.
 
-![Phishing Indicators](evidence/10-phishing-indicators.png)
+![Phishing Indicators](evidence/10-phishing-indicators.png)<img width="1920" height="1080" alt="09-ioc-summary" src="https://github.com/user-attachments/assets/4a789112-3109-4dca-b028-d40a04b4f298" />
+<img width="1303" height="637" alt="10-phishing-indicators" src="https://github.com/user-attachments/assets/b01ac7e5-e1a1-49f6-ae43-a33012133e7e" />
+
 
 ---
 
