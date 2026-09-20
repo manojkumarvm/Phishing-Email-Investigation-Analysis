@@ -124,8 +124,8 @@ mail-response-center.com
 
 These differences were documented as suspicious indicators.
 
-![Email Header Analysis](evidence/01-email-header-an<img width="1920" height="1080" alt="01-email-header-analysis png" src="https://github.com/user-attachments/assets/3df0c666-0aed-4250-a369-d41e862f492e" />
-alysis.png)
+![Email Header Analysis](evidence/01-email-header-an<img alysis.png)width="1920" height="1080" alt="01-email-header-analysis png" src="https://github.com/user-attachments/assets/3df0c666-0aed-4250-a369-d41e862f492e" />
+
 
 ---
 
