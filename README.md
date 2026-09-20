@@ -389,7 +389,8 @@ Recommended defensive actions include:
 
 The detailed investigation report is available below:
 
-[View Phishing Investigation Report](report/phishing-investigation-report.pdf)
+[View Phishing Investigation Report](report/phishing-investigation-report.pdf)[phishing-investigation-report.pdf](https://github.com/user-attachments/files/32436303/phishing-investigation-report.pdf)
+
 
 ---
 
