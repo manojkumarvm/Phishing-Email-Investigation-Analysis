@@ -283,7 +283,7 @@ The investigation examined available information including:
 
 The URLScan.io findings were compared with the email and VirusTotal evidence.
 
-![URLScan.io Investigation](evidence/07-urlscan-analysis.png)<img width="1303" height="637" alt="10-phishing-indicators" src="https://github.com/user-attachments/assets/05280911-bb23-42a2-98fa-3ef279ed2848" />
+![URLScan.io Investigation](evidence/07-urlscan-analysis.png)
 <img width="1920" height="1080" alt="07-urlscan-analysis" src="https://github.com/user-attachments/assets/43c4f828-ad41-4394-8d7d-31395b831ef4" />
 
 
@@ -350,7 +350,7 @@ The investigation identified the following indicators requiring security attenti
 9. Suspicious `.pdf.exe` attachment.
 10. External sending IP identified in the email headers.
 
-![Phishing Indicators](evidence/10-phishing-indicators.png)<img width="1920" height="1080" alt="09-ioc-summary" src="https://github.com/user-attachments/assets/4a789112-3109-4dca-b028-d40a04b4f298" />
+![Phishing Indicators](evidence/10-phishing-indicators.png)
 <img width="1303" height="637" alt="10-phishing-indicators" src="https://github.com/user-attachments/assets/b01ac7e5-e1a1-49f6-ae43-a33012133e7e" />
 
 
