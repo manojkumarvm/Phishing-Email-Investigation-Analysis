@@ -1,0 +1,62 @@
+Delivered-To: victim@example.com
+Return-Path: <security-alert@paypa1-secure-verify.com>
+Received: from mail-relay-192.suspicious-host.net (mail-relay-192.suspicious-host.net [185.220.101.47])
+        by mx.example.com with ESMTPS id a1b2c3d4e5;
+        Thu, 17 Sep 2026 09:14:22 +0000 (UTC)
+Authentication-Results: mx.example.com;
+       spf=fail (sender IP is 185.220.101.47) smtp.mailfrom=paypa1-secure-verify.com;
+       dkim=fail header.i=@paypa1-secure-verify.com;
+       dmarc=fail (p=REJECT sp=REJECT dis=NONE) header.from=paypa1-secure-verify.com
+From: "PayPal Security Team" <security-alert@paypa1-secure-verify.com>
+Reply-To: paypal-support-case@mail-response-center.com
+To: victim@example.com
+Subject: =?UTF-8?B?4pqg77iP?= Urgent: Your Account Has Been Limited - Action Required
+Date: Thu, 17 Sep 2026 09:14:20 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_NextPart_000_001A_01D9A2F3.5C8B4E10"
+X-Priority: 1
+X-Mailer: PHPMailer 5.2.9
+
+------=_NextPart_000_001A_01D9A2F3.5C8B4E10
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<body style=3D"font-family: Arial, sans-serif;">
+<p>Dear Valued Customer,</p>
+
+<p>We have detected <b>unusual activity</b> on your PayPal account. For =
+your security, your account access has been <b>temporarily limited</b>.=
+</p>
+
+<p>You must verify your identity within <b>24 hours</b> or your account =
+will be permanently suspended.</p>
+
+<p><a href=3D"http://paypa1-secure-verify.com.account-confirm.info/login=
+.php?id=3D8827x9j2&session=3Dexpired">Click Here to Verify Your Account =
+Now</a></p>
+
+<p>If you do not verify within the given time, all pending transactions =
+will be cancelled and your funds may be inaccessible.</p>
+
+<p>Thank you for your prompt attention to this matter.</p>
+
+<p>Sincerely,<br>
+PayPal Account Review Team</p>
+
+<p style=3D"font-size:10px;color:#999;">This is an automated message. Pl=
+ease do not reply directly to this email. For support, contact us at ou=
+r case center.</p>
+</body>
+</html>
+
+------=_NextPart_000_001A_01D9A2F3.5C8B4E10
+Content-Type: application/octet-stream; name="Account_Statement.pdf.exe"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="Account_Statement.pdf.exe"
+
+VGhpcyBpcyBub3QgYSByZWFsIGV4ZWN1dGFibGUgLSB0aGlzIGlzIGEgcGxhY2Vob2xkZXIg
+Zm9yIGVkdWNhdGlvbmFsIHBoaXNoaW5nIGFuYWx5c2lzIHRyYWluaW5nIHB1cnBvc2VzIG9u
+bHkuIE5vIGFjdHVhbCBtYWx3YXJlIGlzIGNvbnRhaW5lZCBpbiB0aGlzIGZpbGUu
+
+------=_NextPart_000_001A_01D9A2F3.5C8B4E10--
