@@ -1,13 +1,14 @@
-# Threat-Intelligence-IOC-Email-Investigation
-Phishing email investigation, IOC extraction, and threat intelligence analysis using VirusTotal and URLScan.io.
+Phishing Email Investigation & Analysis
 
-## 1. Project Overview
+Phishing email investigation and analysis using email header analysis, IOC extraction, and threat intelligence techniques with VirusTotal and URLScan.io.
 
-This project demonstrates a phishing email investigation workflow using email header analysis, IOC extraction, and threat intelligence tools.
+1. Project Overview
 
-A sample phishing email was analyzed to identify suspicious sender information, domain spoofing, authentication failures, embedded URLs, IP addresses, and a suspicious attachment.
+This project demonstrates a Phishing Email Investigation & Analysis workflow for identifying and analyzing suspicious email activity.
 
-The extracted indicators were investigated using VirusTotal and URLScan.io, and the findings were documented in an incident report with recommended remediation steps.
+A sample phishing email was analyzed by examining the email headers, sender information, Reply-To address, domain details, authentication information, embedded URLs, IP addresses, and email attachment to identify potential indicators of compromise (IOCs).
+
+The extracted IOCs were investigated using VirusTotal and URLScan.io to assess suspicious domains, URLs, IP addresses, and other indicators. The investigation findings were documented as evidence and summarized in a phishing investigation report with recommended remediation steps.
 
 ---
 
