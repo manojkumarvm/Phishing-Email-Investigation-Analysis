@@ -187,7 +187,8 @@ hxxp://paypa1-secure-verify[.]com.account-confirm[.]info/login.php
 
 The URL uses a deceptive domain structure designed to make the link appear associated with PayPal.
 
-![URL Extraction](evidence/03-url-extraction.png)<img width="1920" height="1080" alt="07-urlscan-analysis" src="https://github.com/user-attachments/assets/10ce9d5d-6177-4fbc-968e-b5713e5bf9c0" />
+![URL Extraction](evidence/03-url-extraction.png)<img <img width="1920" height="1080" alt="05-virustotal-url" src="https://github.com/user-attachments/assets/a0f2f7b6-7a0c-4c86-94e2-55307872e23b" />
+
 
 
 ---
