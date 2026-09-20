@@ -1,8 +1,8 @@
-Phishing Email Investigation & Analysis
+# Phishing Email Investigation & Analysis
 
 A cybersecurity investigation project focused on analyzing a suspicious phishing email, extracting Indicators of Compromise (IOCs), and validating them using threat intelligence tools such as VirusTotal and URLScan.io.
 
-1. Project Overview
+## 1. Project Overview
 
 This project demonstrates a practical Phishing Email Investigation & Analysis workflow.
 
